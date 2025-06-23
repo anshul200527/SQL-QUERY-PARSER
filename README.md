@@ -15,4 +15,6 @@ INSERT INTO students (id, name) VALUES (1, 'Anshul');
 UPDATE users SET name = 'Ravi' WHERE id = 10;
 DELETE FROM users WHERE id = 5;
 ```
+## 🖼 GUI Screenshot
+![GUI Screenshot](ss.png.png)
 
